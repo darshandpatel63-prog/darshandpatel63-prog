@@ -43,6 +43,14 @@ I'm currently building **NUOS**, **ProLib**, **MotionZync** and **PromptLib** â€
 
 <br/>
 
+## ğŸ† GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=darshandpatel63-prog&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
 ## ğŸ“Œ Featured Projects
 
 | Project | Tech | Link |
@@ -60,6 +68,14 @@ I'm currently building **NUOS**, **ProLib**, **MotionZync** and **PromptLib** â€
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=darshandpatel63-prog&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FF1493&text_color=ffffff&bg_color=0D1117" width="48%" />
 <img src="https://streak-stats.demolab.com?user=darshandpatel63-prog&hide_border=true&background=0D1117&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" />
+</div>
+
+<br/>
+
+## ğŸ“ˆ Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshandpatel63-prog&bg_color=0D1117&color=FFD700&line=FF1493&point=39FF14&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
