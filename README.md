@@ -58,7 +58,7 @@ I'm currently building **NUOS**, **ProLib**, **MotionZync** and **PromptLib** �
 | 🔹 **NUOS** | — | [Repo](https://github.com/darshandpatel63-prog/NUOS) |
 | 🔹 **ProLib** | TypeScript | [Repo](https://github.com/darshandpatel63-prog/ProLib) |
 | 🔹 **MotionZync** | — | [Repo](https://github.com/darshandpatel63-prog/MotionZync) |
-| 🔹 **PromptLib** | TypeScript | [Repo](https://github.com/darshandpatel63-prog/PromptLib) |
+| 🔹 **Craftprolib** | Next | [Repo](https://github.com/darshandpatel63-prog/Craftprolib) |
 | 🔹 **Portfolio Website** | HTML | [Live Site](https://darshandpatel63-prog.github.io/Code-by-D-D-Patel/#about) |
 
 <br/>
